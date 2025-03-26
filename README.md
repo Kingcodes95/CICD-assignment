@@ -1,6 +1,7 @@
 # Triggering the pipeline
 
 This is a simple update to trigger the pipeline
+Test #2
 
 # CICD-assignment
 
